@@ -1,0 +1,11 @@
+Start the "terminal" program (you can search for it using spotlight)
+In terminal, write: idle &
+In the program that opened (called Python, with a rocket as the program symbol), write: print "Hello, world!"
+Print will be shown in orange, "Hello, world!" in green. This is called syntax highlighting.
+File/Save As, and name the file for example my_example1.py
+Go back to the terminal program and write: python my_example.py
+This will execute the python program you just wrote, and the result should be: Hello, world!
+
+Other commands to use in terminal:
+pwd  # print working directory
+ls  # list files
